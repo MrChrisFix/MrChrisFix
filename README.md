@@ -12,8 +12,8 @@ I’m interested in physics, astronomy, math, programming and video games. <br>
 <h3>Quote</h3>
 
 ```cpp
-for(unsigned int i = 0; i < 1; i--)
-  if(i == 1) std::cout << "Done\n";
+for(int i = 6; i != 5; i++)
+  if(i == 0) std::cout<<"Done\n";
 //It's not about the destination  
 //It's about the journey
 ```
