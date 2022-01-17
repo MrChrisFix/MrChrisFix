@@ -2,8 +2,8 @@
 Welcome to my Github page! Who am I? I’m Christian aka @MrChrisFix. Right now I'm just a student studying computer science at the Silesian University of Technology (Poland). <br>
 
 <h3>Programming languages :clipboard:</h3>
-My main programming language is C++, but I also know C and a bit of Assembly and R.<br>
-Have a tiny bit of experience with Java (I hate it though) <br>
+My main programming language is C++, but I also know C and Assembly.<br>
+Have a some experience with Java (I hate it though) <br>
 My first programming language I've learned was Python, but now I only know the basics of the basics of the syntax.
 
 <h3> My interests :fire:</h3>
